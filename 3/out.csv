@@ -1,0 +1,13 @@
+myarmy;enemyarmy;betrayal;enemybetrayal;expected;classes
+small;small;impossible;possible;false;Y     1
+small;medium;possible;impossible;true;Y     2
+medium;small;impossible;possible;true;Y     3
+small;medium;possible;possible;false;N      4
+large;medium;possible;possible;false;N      5
+medium;medium;possible;possible;false;N     6
+large;large;possible;possible;false;N       7
+medium;medium;possible;impossible;false;N   8
+small;large;possible;impossible;true;M      9
+medium;medium;impossible;impossible;true;M  10
+large;large;possible;impossible;true;M      11
+small;medium;possible;possible;true;M       12
